@@ -1,0 +1,7 @@
+2026-10-19 09:00:01 INFO Login successful user=alice ip=192.0.2.10
+2026-10-19 09:01:12 WARNING Login failed user=admin ip=192.0.2.50
+2026-10-19 09:01:20 WARNING Login failed user=admin ip=192.0.2.50
+2026-10-19 09:01:28 WARNING Login failed user=admin ip=192.0.2.50
+2026-10-19 09:02:10 INFO Login successful user=bob ip=192.0.2.20
+2026-10-19 09:03:15 WARNING Login failed user=alice ip=192.0.2.60
+2026-10-19 09:04:00 INFO Login successful user=alice ip=192.0.2.10
